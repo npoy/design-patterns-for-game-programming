@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e3cca052d4ed90418ed70d5902e4ab0, type: 3}
+  m_Script: {fileID: 11500000, guid: 526efa2f220b4184b816cae2bd45411e, type: 3}
   m_Name: Tree8
   m_EditorClassIdentifier: 
   plantName: Plant 8
